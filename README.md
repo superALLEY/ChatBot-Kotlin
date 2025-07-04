@@ -31,12 +31,12 @@ Pour exécuter ce projet, vous aurez besoin de :
    ```bash
    git clone https://github.com/superALLEY/ChatBot-Kotlin.git
    cd ChatBot-Kotlin/ChatBot-master
-  ```
+   ```
 
 2. Compilez le projet :
-  ```bach
+  ```bash
   ./gradlew build
-```
+  ```
 3. Exécutez l'application :
    ```
    ./gradlew run
